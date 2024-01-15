@@ -3,9 +3,9 @@ import "./App.css";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "font-awesome/css/font-awesome.min.css";
-import Logo from "../components/Logo/Logo";
-import Nav from "../components/Nav/Nav";
-import Footer from "../components/Footer/Footer";
+import Logo from "../components/Logo/";
+import Nav from "../components/Nav/";
+import Footer from "../components/Footer/";
 import { BrowserRouter } from "react-router-dom";
 import Routes from "./Routes";
 

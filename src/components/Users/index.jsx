@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Main from "../template/Main";
+import Main from "../Template";
 import axios from "axios";
 
 const headerProps = {
